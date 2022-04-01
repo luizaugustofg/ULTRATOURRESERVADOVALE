@@ -1,0 +1,186 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C2B25EA6_E0CE_58EB_41D1_E7498DD118E8.source = https://www.flowvideo.com.br
+PopupWebFrameBehaviour_C3F8E252_E104_403E_41DF_09E0E2F3D839.url = https://www.flowvideo.com.br
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d958.4341302031816!2d-47.99475817075996!3d-16.079156710663927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3a53259304a7ea1c!2zMTbCsDA0JzQ1LjAiUyA0N8KwNTknMzkuMiJX!5e0!3m2!1spt-BR!2sbr!4v1648572985061!5m2!1spt-BR!2sbr
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d958.4341302031816!2d-47.99475817075996!3d-16.079156710663927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3a53259304a7ea1c!2zMTbCsDA0JzQ1LjAiUyA0N8KwNTknMzkuMiJX!5e0!3m2!1spt-BR!2sbr!4v1648572985061!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_C2B46E9C_E0CE_58DF_41CB_9E5DE3A69F10.url = //www.youtube.com/embed/EWxs5bq3vZA?v=EWxs5bq3vZA
+PopupWebFrameBehaviour_C4100B74_DC1B_98F0_41CF_16EB5F320A19.url = //www.youtube.com/embed/EWxs5bq3vZA?v=EWxs5bq3vZA
+PopupWebFrameBehaviour_FA6742D4_E05E_E8AF_41E5_FDE8796B46E0.url = //www.youtube.com/embed/qZvocAN3dKU?v=qZvocAN3dKU
+PopupWebFrameBehaviour_C2B30E9F_E0CE_58D9_41DC_93123382B64A.url = //www.youtube.com/embed/qZvocAN3dKU?v=qZvocAN3dKU
+PopupWebFrameBehaviour_C358F71F_E104_C026_41DB_8665291C69C8.url = //www.youtube.com/embed/tQq1TS4x8eA
+
+## Media
+
+### Title
+album_C254C887_D70D_C45A_41B9_3A8AED6E9787.label =  IMPLANTAÇÃO
+album_C45F302D_DC38_8810_41E7_1A42BAB7AF89_0.label = 01-Pórtico Principal - Vista A
+album_C45F302D_DC38_8810_41E7_1A42BAB7AF89_1.label = 02-Pórtico Principal - Vista B
+album_C5C9022C_DC1B_8810_41E1_D020B20430B3_0.label = 04-Loteamento Mirante –Acesso portaria
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_0.label = 12-Parque do Mirante –acesso principal
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_1.label = 13-Parque do Mirante -Deck
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_2.label = 14-Parque do Mirante -Arena
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_3.label = 15-Parque do Mirante -Vista do córrego e praça piquenique
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_4.label = 16-Parque do Mirante -Mirante
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_5.label = 17-Parque do Mirante –vista panorâmica
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_6.label = 18-Parque do Mirante –Vista panorâmica 2
+album_C5C9022C_DC1B_8810_41E1_D020B20430B3_1.label = 19-Parque do Mirante -Vista aérea
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_7.label = 19-Parque do Mirante -Vista aérea
+album_C5C9022C_DC1B_8810_41E1_D020B20430B3_2.label = 20-Parque do Mirante -Vista aérea B
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43_8.label = 20-Parque do Mirante -Vista aérea B
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_0.label = 21-Parque do Lago
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_1.label = 22-Piquenique
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_2.label = 23-Vista aérea Parque do Lago
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_3.label = 24-Vista aérea Parque do Lago
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_4.label = 25-Parque do Lago –área de esportes
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_5.label = 26-Parque do Lago -Pista de Skate-BONUS
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51_6.label = 27-Parque do Lago -DECK em panorâmica-BONUS
+panorama_DB441825_D0EA_F05E_41DC_0EA9B65E7260.label = BRISAS DO VALE
+album_C0D3012D_D702_44AE_41D5_87367A05764D.label = BRISAS DO VALE
+panorama_DB444716_D0EA_107A_41C1_18DB0EE4D7B7.label = BRISAS DO VALE (2)
+album_CF4A9345_DC19_8810_4198_80E69D23430A_0.label = CICLOVIA
+album_CF4A9345_DC19_8810_4198_80E69D23430A_1.label = DELIBERY STOP 1
+album_F1E2B5FC_E104_C3EA_41E9_7C2B8E297907_0.label = DJI_0214
+album_F1E2B5FC_E104_C3EA_41E9_7C2B8E297907_1.label = DJI_0215
+album_CF4A9345_DC19_8810_4198_80E69D23430A_2.label = DRONE 1
+album_CF4A9345_DC19_8810_4198_80E69D23430A_3.label = ESPAÇO IFOOD 1
+album_CF4A9345_DC19_8810_4198_80E69D23430A_4.label = ESPAÇO UBER 2
+album_C0D3012D_D702_44AE_41D5_87367A05764D_0.label = FOTO AÉREA BRISAS 1
+album_C0D3012D_D702_44AE_41D5_87367A05764D_1.label = FOTO AÉREA BRISAS 2
+album_CF4A9345_DC19_8810_4198_80E69D23430A.label = FOTOS GERAIS
+photo_F067F5FB_E104_43EE_41EA_86178DAC7D17.label = IMG_9868
+photo_F067F5FB_E104_43EE_41EA_86178DAC7D17.label = IMG_9868
+photo_F1D74FAF_E104_4066_41E3_B69836F9323F.label = IMG_9876
+photo_F1D74FAF_E104_4066_41E3_B69836F9323F.label = IMG_9876
+photo_F1D653D1_E104_403A_41D1_01921977CD1B.label = IMG_9886
+photo_F1D653D1_E104_403A_41D1_01921977CD1B.label = IMG_9886
+photo_F1D69A94_E104_403A_41E0_4E7FB47108C6.label = IMG_9890
+photo_F1D69A94_E104_403A_41E0_4E7FB47108C6.label = IMG_9890
+photo_F1D6B2C2_E104_401E_41D3_08BBDBE42BE8.label = IMG_9895
+photo_F1D6B2C2_E104_401E_41D3_08BBDBE42BE8.label = IMG_9895
+photo_F1D69AAD_E104_406A_41C5_DFADE348EF6F.label = IMG_9912
+photo_F1D69AAD_E104_406A_41C5_DFADE348EF6F.label = IMG_9912
+album_C0D3012D_D702_44AE_41D5_87367A05764D_2.label = IMPLANTAÇÃO BRISAS 1
+album_C0D3012D_D702_44AE_41D5_87367A05764D_3.label = IMPLANTAÇÃO BRISAS 2
+album_C5C9022C_DC1B_8810_41E1_D020B20430B3.label = MIRANTE
+panorama_DB443F6A_D0EA_30AA_41E5_934BF337ED11.label = MIRANTE DO VALE
+album_CF4A9345_DC19_8810_4198_80E69D23430A_5.label = OPEN MALL - RECARGA ELÉTRICA 3
+album_CF4A9345_DC19_8810_4198_80E69D23430A_6.label = OPEN MALL 4
+album_CF4A9345_DC19_8810_4198_80E69D23430A_7.label = PARKLET
+album_F902E9AC_E10D_C06A_41C9_A4B112DDEC51.label = PARQUE DO LAGO
+album_F4A59BD8_E10C_402A_41D9_B1465C595F43.label = PARQUE DO MIRANTE
+album_C45F302D_DC38_8810_41E7_1A42BAB7AF89.label = PORTARIA
+panorama_DB49336E_D0EA_30AA_41B3_029B02338994.label = PORTARIA
+album_CF4A9345_DC19_8810_4198_80E69D23430A_8.label = PRAÇA DO PEQUI 1
+album_CF4A9345_DC19_8810_4198_80E69D23430A_9.label = PRAÇA DO PEQUI 2
+album_CF4A9345_DC19_8810_4198_80E69D23430A_10.label = RECARGA ELÉTRICA - OPEN MALL 1
+album_CF4A9345_DC19_8810_4198_80E69D23430A_11.label = RECARGA ELÉTRICA - OPEN MALL 2
+album_CF4A9345_DC19_8810_4198_80E69D23430A_12.label = RECARGA ELÉTRICA - STREET MALL 1
+album_CF4A9345_DC19_8810_4198_80E69D23430A_13.label = RECARGA ELÉTRICA - STREET MALL 2
+album_CF4A9345_DC19_8810_4198_80E69D23430A_14.label = STREET MALL - SMART STORY
+album_CF4A9345_DC19_8810_4198_80E69D23430A_15.label = SUPERMERCADO OPEN MALL
+video_C9B91345_DC38_8810_41E4_4A0BD21FD6FA.label = VIDEO CONCEITO - RDV
+panorama_DB442444_D0EA_10DE_41D5_7BDFD2D5925E.label = VISTA GERAL
+panorama_DB44FAED_D0EA_11AE_41E7_4C70AAE479B6.label = VISTA GERAL 2
+photo_F7CB5F1F_E042_39D9_41E9_8FE5031EC48A.label = implantacao-brisas
+photo_EF5FBF97_E104_C026_41EB_3231092D7B8D.label = implantacao-brisas
+photo_F7CB5F1F_E042_39D9_41E9_8FE5031EC48A.label = implantacao-brisas
+photo_EF5FBF97_E104_C026_41EB_3231092D7B8D.label = implantacao-brisas
+photo_EC8312D1_E104_C03A_41E0_DB007B771AF2.label = implantacao-mirantes
+photo_F8D334A3_E042_28E9_41B2_B6237C3F6BD4.label = implantacao-mirantes
+photo_EC8312D1_E104_C03A_41E0_DB007B771AF2.label = implantacao-mirantes
+photo_F8D334A3_E042_28E9_41B2_B6237C3F6BD4.label = implantacao-mirantes
+video_FC661D83_DDC8_247C_41DE_9309EAEC75F3.label = loop 5s rdv
+album_F1E2B5FC_E104_C3EA_41E9_7C2B8E297907.label = ÁREA VERDE
+panorama_DB479206_D0EA_705A_41C3_613989CA1FA5.label = ÁREA VERDE
+
+### Video
+videolevel_C4E5375C_E104_402A_41E7_DFEDBAE117F6.posterURL = media/video_C9B91345_DC38_8810_41E4_4A0BD21FD6FA_poster_pt.jpg
+videolevel_C5DFE16C_E103_C0EA_41D1_D3976F45E674.posterURL = media/video_C9B91345_DC38_8810_41E4_4A0BD21FD6FA_poster_pt.jpg
+videolevel_C4E5375C_E104_402A_41E7_DFEDBAE117F6.url = media/video_C9B91345_DC38_8810_41E4_4A0BD21FD6FA_pt.m3u8
+videolevel_C5DFE16C_E103_C0EA_41D1_D3976F45E674.url = media/video_C9B91345_DC38_8810_41E4_4A0BD21FD6FA_pt.mp4
+videolevel_C43C748E_E103_C026_41E7_6D3D2662600B.posterURL = media/video_FC661D83_DDC8_247C_41DE_9309EAEC75F3_poster_pt.jpg
+videolevel_C45F64DE_E10C_4026_41CD_792135E2D7A3.posterURL = media/video_FC661D83_DDC8_247C_41DE_9309EAEC75F3_poster_pt.jpg
+videolevel_C43C748E_E103_C026_41E7_6D3D2662600B.url = media/video_FC661D83_DDC8_247C_41DE_9309EAEC75F3_pt.m3u8
+videolevel_C45F64DE_E10C_4026_41CD_792135E2D7A3.url = media/video_FC661D83_DDC8_247C_41DE_9309EAEC75F3_pt.mp4
+
+## Popup
+
+### Title
+window_C28F425F_D70E_44EA_41E7_0B80CAF23F3E.title = Implantação Geral
+window_C2A88E7E_E0CE_585B_41D7_1E16C32DCCB6.title = Implantação Geral
+
+## Skin
+
+### Button
+Button_FACF52FC_E046_285F_41D2_16E2F566C09D.label = +27 ITENS
+Button_FACF52FC_E046_285F_41D2_16E2F566C09D_mobile.label = +27 ITENS
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = BRISAS DO VALE >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = BRISAS DO VALE >
+Button_CBA302E2_DC1B_8810_41C9_F72503BF3DEB.label = IMAGENS
+Button_CBA302E2_DC1B_8810_41C9_F72503BF3DEB_mobile.label = IMAGENS
+Button_CBA2D2E2_DC1B_8810_41B3_E0F081B93E35_mobile.label = IMPLANTAÇÃO
+Button_CBA2D2E2_DC1B_8810_41B3_E0F081B93E35.label = IMPLANTAÇÃO
+Button_C3FE3F3B_D702_BCAA_41D3_5530E7D0C404.label = IMPLANTAÇÃO >
+Button_C3FE3F3B_D702_BCAA_41D3_5530E7D0C404_mobile.label = IMPLANTAÇÃO >
+Button_CBA2E2E2_DC1B_8810_41B3_43CA5E169737.label = LOCALIZAÇÃO
+Button_CBA2E2E2_DC1B_8810_41B3_43CA5E169737_mobile.label = LOCALIZAÇÃO
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A.label = LOREM IPSUM
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A_mobile.label = LOREM IPSUM
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = MIRANTE DO VALE >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = MIRANTE DO VALE >
+Button_C1C72A8B_D20C_B3B3_41DF_D4059160596F.pressedLabel = PORTARIA
+Button_C1C72A8B_D20C_B3B3_41DF_D4059160596F_mobile.pressedLabel = PORTARIA
+Button_C1C72A8B_D20C_B3B3_41DF_D4059160596F_mobile.label = PORTARIA >
+Button_C1C72A8B_D20C_B3B3_41DF_D4059160596F.label = PORTARIA >
+Button_F1D138D6_E10C_4026_41A5_7A96D394AF3D.label = TRAJETO
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = VISTA GERAL
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = VISTA GERAL
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = VISTA GERAL >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = VISTA GERAL >
+Button_CBA2F2E2_DC1B_8810_41A6_CEB0F23453CF_mobile.label = VÍDEO CONCEITO
+Button_CBA2F2E2_DC1B_8810_41A6_CEB0F23453CF.label = VÍDEO CONCEITO
+Button_CE4F1AA5_D204_53F7_41E3_C40F5E9A3609.label = ÁREA VERDE >
+Button_CE4F1AA5_D204_53F7_41E3_C40F5E9A3609_mobile.label = ÁREA VERDE >
+
+### Dropdown
+DropDown_FC17BE2D_E103_C06A_41E9_332CEC37A75B.prompt = MENU
+DropDown_C9229D03_DBF9_7810_41C9_53A13B3555FE_mobile.prompt = MENU DE OPÇÕES
+
+### Image
+Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_mobile.url = skin/Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_mobile_pt.jpg
+Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2.url = skin/Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_pt.jpg
+Image_C0DE57F2_D205_B16D_41EA_3A811F12C602_mobile.url = skin/Image_C0DE57F2_D205_B16D_41EA_3A811F12C602_mobile_pt.png
+Image_C0DE57F2_D205_B16D_41EA_3A811F12C602.url = skin/Image_C0DE57F2_D205_B16D_41EA_3A811F12C602_pt.png
+Image_C44A45B3_DDC8_279C_41B5_628EAFCA2EC2_mobile.url = skin/Image_C44A45B3_DDC8_279C_41B5_628EAFCA2EC2_mobile_pt.png
+Image_C44A45B3_DDC8_279C_41B5_628EAFCA2EC2.url = skin/Image_C44A45B3_DDC8_279C_41B5_628EAFCA2EC2_pt.png
+Image_C83DEEE9_DFC2_7879_41D3_DD7B21ED0EE9_mobile.url = skin/Image_C83DEEE9_DFC2_7879_41D3_DD7B21ED0EE9_mobile_pt.png
+Image_C83DEEE9_DFC2_7879_41D3_DD7B21ED0EE9.url = skin/Image_C83DEEE9_DFC2_7879_41D3_DD7B21ED0EE9_pt.png
+Image_CA59BF63_DC78_B810_41EA_60099C05CD73_mobile.url = skin/Image_CA59BF63_DC78_B810_41EA_60099C05CD73_mobile_pt.png
+Image_CA59BF63_DC78_B810_41EA_60099C05CD73.url = skin/Image_CA59BF63_DC78_B810_41EA_60099C05CD73_pt.png
+Image_CC5EB4D0_DFC2_68A7_41E2_5B928778C1C4_mobile.url = skin/Image_CC5EB4D0_DFC2_68A7_41E2_5B928778C1C4_mobile_pt.png
+Image_CC5EB4D0_DFC2_68A7_41E2_5B928778C1C4.url = skin/Image_CC5EB4D0_DFC2_68A7_41E2_5B928778C1C4_pt.png
+Image_CCB1F4EF_DFDE_6879_41E1_E8CA8CAF27E6_mobile.url = skin/Image_CCB1F4EF_DFDE_6879_41E1_E8CA8CAF27E6_mobile_pt.png
+Image_CCB1F4EF_DFDE_6879_41E1_E8CA8CAF27E6.url = skin/Image_CCB1F4EF_DFDE_6879_41E1_E8CA8CAF27E6_pt.png
+Image_CF0B4231_DFC2_6BE9_41CC_4FE81FA93A1C_mobile.url = skin/Image_CF0B4231_DFC2_6BE9_41CC_4FE81FA93A1C_mobile_pt.png
+Image_CF0B4231_DFC2_6BE9_41CC_4FE81FA93A1C.url = skin/Image_CF0B4231_DFC2_6BE9_41CC_4FE81FA93A1C_pt.png
+Image_CF551B77_DFC6_D869_419A_971E0093A6A2_mobile.url = skin/Image_CF551B77_DFC6_D869_419A_971E0093A6A2_mobile_pt.png
+Image_CF551B77_DFC6_D869_419A_971E0093A6A2.url = skin/Image_CF551B77_DFC6_D869_419A_971E0093A6A2_pt.png
+Image_DFD9872A_D0F4_EA2B_41AE_CFB8E260452E_mobile.url = skin/Image_DFD9872A_D0F4_EA2B_41AE_CFB8E260452E_mobile_pt.png
+Image_DFD9872A_D0F4_EA2B_41AE_CFB8E260452E.url = skin/Image_DFD9872A_D0F4_EA2B_41AE_CFB8E260452E_pt.png
+Image_FA5CF8EE_E045_D87B_41CE_7CB335EA0D6B_mobile.url = skin/Image_FA5CF8EE_E045_D87B_41CE_7CB335EA0D6B_mobile_pt.png
+Image_FA5CF8EE_E045_D87B_41CE_7CB335EA0D6B.url = skin/Image_FA5CF8EE_E045_D87B_41CE_7CB335EA0D6B_pt.png
+
+### Multiline Text
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.060000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.22vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.060000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.22vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.220000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Reserva do Vale - Valparaíso
